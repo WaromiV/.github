@@ -9,9 +9,9 @@ I build production-grade AI systems, automation platforms, and data-driven softw
 - 🧱💻 **[openscad-ai-cs](https://github.com/WaromiV/openscad-ai-cs)** - C# Openscad MCP.
 - 💳🎨 **[revolut-card-draw](https://github.com/WaromiV/revolut-card-draw)** - Automatically draw SVGs on cards.
 - 🐳🧠 **[codexs-via-leantime](https://github.com/WaromiV/codexs-via-leantime)** - A bunch of codex agents jump into docker containers with their own git credentials then do issues from gitea.
-- 🧪🌪️ **[fandom-bench](https://github.com/WaromiV/fandom-bench)** - Another wild bench.
+- 🧪🌪️ **[fandom-bench](https://github.com/WaromiV/fandom-bench)** - LLM bench for knowlegde of pop/game culture by llms.
 - 👀📶 **[telegram_online_monitor](https://github.com/WaromiV/telegram_online_monitor)** - Watches online/offline events and builds a dashboard for status patterns.
-- 🤖⌨️ **[codex-waromiv](https://github.com/WaromiV/codex-waromiv)** - Lightweight coding agent that runs in your terminal. 🍴 Fork
+- 🤖⌨️ **[codex-waromiv](https://github.com/WaromiV/codex-waromiv)** - Custom codex with extended functionality. 🍴 Fork
 - 🧮🏗️ **[vp-build-estimator-73667-91014](https://github.com/WaromiV/vp-build-estimator-73667-91014)** - No description yet.
 - 🎙️🧠 **[voice_nvim_gpt_control](https://github.com/WaromiV/voice_nvim_gpt_control)** - Allow GPT to execute commands in nvim using microphone human input.
 - 🛡️📏 **[yas-bench](https://github.com/WaromiV/yas-bench)** - Yet Another Security benchmark.
