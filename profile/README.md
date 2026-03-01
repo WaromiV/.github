@@ -8,7 +8,6 @@ I build production-grade AI systems, automation platforms, and data-driven softw
 - ⚛️🧨 **[oop-leak](https://github.com/WaromiV/oop-leak)** - Tries to get all physics laws from an LLM to simulate nuclear fussion.
 - 🧱💻 **[openscad-ai-cs](https://github.com/WaromiV/openscad-ai-cs)** - C# Openscad MCP.
 - 💳🎨 **[revolut-card-draw](https://github.com/WaromiV/revolut-card-draw)** - Automatically draw SVGs on cards.
-- 🧱🧠 **[openscad-ai](https://github.com/WaromiV/openscad-ai)** - No description yet.
 - 🐳🧠 **[codexs-via-leantime](https://github.com/WaromiV/codexs-via-leantime)** - A bunch of codex agents jump into docker containers with their own git credentials then do issues from gitea.
 - 🧪🌪️ **[fandom-bench](https://github.com/WaromiV/fandom-bench)** - Another wild bench.
 - 👀📶 **[telegram_online_monitor](https://github.com/WaromiV/telegram_online_monitor)** - Watches online/offline events and builds a dashboard for status patterns.
