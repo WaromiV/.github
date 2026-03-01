@@ -3,8 +3,8 @@
 I build production-grade AI systems, automation platforms, and data-driven software products.
 
 ## 🧠⚡ All Public Repositories (Direct Links)
-
 - 📉🧠 **[torch_crypto_transformer](https://github.com/WaromiV/torch_crypto_transformer)** - Multivariate Transformer pipeline for BTCUSDT forecasting on Binance USDT-M futures.
+- 💻 **[Ascender Framework](https://github.com/AscenderTeam/AscenderFramework)** - The Ascender Framework is a sophisticated and structured FastAPI-based framework, inspired by the principles of NestJS. It stands out for its modular and organized architecture. Used in multiple production environments across tens of projects.
 - ⚛️🧨 **[oop-leak](https://github.com/WaromiV/oop-leak)** - Tries to get all physics laws from an LLM to simulate nuclear fussion.
 - 🧱💻 **[openscad-ai-cs](https://github.com/WaromiV/openscad-ai-cs)** - C# Openscad MCP.
 - 💳🎨 **[revolut-card-draw](https://github.com/WaromiV/revolut-card-draw)** - Automatically draw SVGs on cards.
