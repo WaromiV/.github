@@ -4,7 +4,6 @@ I build production-grade AI systems, automation platforms, and data-driven softw
 
 ## 🧠⚡ All Public Repositories (Direct Links)
 
-- 🌐🛠️ **[.github](https://github.com/WaromiV/.github)** - GitHub profile and community health files.
 - 📉🧠 **[torch_crypto_transformer](https://github.com/WaromiV/torch_crypto_transformer)** - Multivariate Transformer pipeline for BTCUSDT forecasting on Binance USDT-M futures.
 - ⚛️🧨 **[oop-leak](https://github.com/WaromiV/oop-leak)** - Tries to get all physics laws from an LLM to simulate nuclear fussion.
 - 🧱💻 **[openscad-ai-cs](https://github.com/WaromiV/openscad-ai-cs)** - C# Openscad MCP.
