@@ -15,7 +15,6 @@ I build production-grade AI systems, automation platforms, and data-driven softw
 - 🧮🏗️ **[vp-build-estimator-73667-91014](https://github.com/WaromiV/vp-build-estimator-73667-91014)** - No description yet.
 - 🎙️🧠 **[voice_nvim_gpt_control](https://github.com/WaromiV/voice_nvim_gpt_control)** - Allow GPT to execute commands in nvim using microphone human input.
 - 🛡️📏 **[yas-bench](https://github.com/WaromiV/yas-bench)** - Yet Another Security benchmark.
-- 📈🤝 **[binance-mexc-arbitrage](https://github.com/WaromiV/binance-mexc-arbitrage)** - No description yet.
 - 📣🛰️ **[telegram-signals-collector](https://github.com/WaromiV/telegram-signals-collector)** - No description yet. 🍴 Fork
 - 🧬🤖 **[expansion-iea-agent](https://github.com/WaromiV/expansion-iea-agent)** - Attempt to prove an LLM agent can become economically independent and self-expanding. 🍴 Fork
 - 🛴⚡ **[escooter_mock_api](https://github.com/WaromiV/escooter_mock_api)** - Escooter mock api for AI support development.
