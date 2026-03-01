@@ -41,3 +41,5 @@ I build production-grade AI systems, automation platforms, and data-driven softw
 ## 📫✨ Connect
 
 - 🧑‍💻 GitHub: **[@WaromiV](https://github.com/WaromiV)**
+- 🌐 Website: **[nesterukemil.cv](https://nesterukemil.cv/)**
+- 💼 LinkedIn: **[emil-nesteruk-018702374](https://www.linkedin.com/in/emil-nesteruk-018702374/)**
