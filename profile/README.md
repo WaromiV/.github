@@ -23,17 +23,17 @@ I build production-grade AI systems, automation platforms, and data-driven softw
 - 📊🚧 **[narva_stats](https://github.com/WaromiV/narva_stats)** - This project analyses time of border crossing reported in telegram chat.
 - 🛒💎 **[bazaar-smart-flipper](https://github.com/WaromiV/bazaar-smart-flipper)** - Hypixel bazaar flipping mod. Uses the best formulas.
 - 🔊📡 **[bytes_transfer_via_sound](https://github.com/WaromiV/bytes_transfer_via_sound)** - A python project for transfering data using sound in some ranges.
-- 📱💾 **[phone_as_drive_flask_util](https://github.com/WaromiV/phone_as_drive_flask_util)** - No description yet.
-- 🏗️🧱 **[nestjs-basic-shop-structure](https://github.com/WaromiV/nestjs-basic-shop-structure)** - No description yet.
+- 📱💾 **[phone_as_drive_flask_util](https://github.com/WaromiV/phone_as_drive_flask_util)** - Http upload server for termux.
+- 🏗️🧱 **[nestjs-basic-shop-structure](https://github.com/WaromiV/nestjs-basic-shop-structure)** - Training project for Nest JS.
 - 🚿💭 **[shower-thoughts](https://github.com/WaromiV/shower-thoughts)** - Мысли в дУше (ru).
 - 🏴‍☠️🧰 **[ctf](https://github.com/WaromiV/ctf)** - My ctf tools.
 - 🌍🧩 **[web-cms-project](https://github.com/WaromiV/web-cms-project)** - Flask supported web cms. 🍴 Fork
 - 🎮📊 **[consolefps](https://github.com/WaromiV/consolefps)** - No description yet. 🍴 Fork
-- 💬🧩 **[chat-spm](https://github.com/WaromiV/chat-spm)** - No description yet.
+- 💬🧩 **[chat-spm](https://github.com/WaromiV/chat-spm)** - NLP bot integrated into a live game chat.
 - ✈️🌊 **[Vodoley_KuMir](https://github.com/WaromiV/Vodoley_KuMir)** - Flight sim.
 - 🐍🎮 **[PyFS](https://github.com/WaromiV/PyFS)** - Pygame.
 - 🎯🕹️ **[Kyga](https://github.com/WaromiV/Kyga)** - Pygame.
-- 🐞🎮 **[Kuznechik_KuMir](https://github.com/WaromiV/Kuznechik_KuMir)** - No description yet.
+- 🐞🎮 **[Kuznechik_KuMir](https://github.com/WaromiV/Kuznechik_KuMir)** - School project.
 - 🕵️🧪 **[Blackhat-SandboxDetection](https://github.com/WaromiV/Blackhat-SandboxDetection)** - No description yet. 🍴 Fork
 
 ## 📫✨ Connect
