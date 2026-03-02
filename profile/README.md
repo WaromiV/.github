@@ -3,6 +3,8 @@
 I build production-grade AI systems, automation platforms, and data-driven software products.
 
 ## 🧠⚡ All Public Repositories (Direct Links)
+
+- 🖼️🧼 **[gif_decontamination](https://github.com/WaromiV/gif_decontamination)** - Recover clean transparency from palette GIFs contaminated by a known static background color.
 - 📉🧠 **[torch_crypto_transformer](https://github.com/WaromiV/torch_crypto_transformer)** - Multivariate Transformer pipeline for BTCUSDT forecasting on Binance USDT-M futures.
 - 💻 **[Ascender Framework](https://github.com/AscenderTeam/AscenderFramework)** - The Ascender Framework is a sophisticated and structured FastAPI-based framework, inspired by the principles of NestJS. It stands out for its modular and organized architecture. Used in multiple production environments across tens of projects.
 - ⚛️🧨 **[oop-leak](https://github.com/WaromiV/oop-leak)** - Tries to get all physics laws from an LLM to simulate nuclear fussion.
