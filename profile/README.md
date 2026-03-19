@@ -2,7 +2,7 @@
 
 I build production-grade AI systems, automation platforms, and data-driven software products.
 
-## 🧠⚡ All Public Repositories (Direct Links)
+## 🧠⚡ Projects
 
 - 🔥🖼️ **[flux-schnell-runpod-worker](https://github.com/WaromiV/flux-schnell-runpod-worker)** - Queue-based RunPod Serverless worker for FLUX.1-schnell image-to-image generation.
 - 🖼️🧼 **[gif_decontamination](https://github.com/WaromiV/gif_decontamination)** - Recover clean transparency from palette GIFs contaminated by a known static background color.
