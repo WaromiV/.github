@@ -4,6 +4,7 @@ I build production-grade AI systems, automation platforms, and data-driven softw
 
 ## 🧠⚡ Projects
 
+- 🔐🛠️ **[keepassxc](https://github.com/WaromiV/keepassxc)** - KeePassXC fork with custom attachment image clipboard behavior and copy-flow patches. 🍴 Fork
 - 🔥🖼️ **[flux-schnell-runpod-worker](https://github.com/WaromiV/flux-schnell-runpod-worker)** - Queue-based RunPod Serverless worker for FLUX.1-schnell image-to-image generation.
 - 🖼️🧼 **[gif_decontamination](https://github.com/WaromiV/gif_decontamination)** - Recover clean transparency from palette GIFs contaminated by a known static background color.
 - 📉🧠 **[torch_crypto_transformer](https://github.com/WaromiV/torch_crypto_transformer)** - Multivariate Transformer pipeline for BTCUSDT forecasting on Binance USDT-M futures.
