@@ -5,6 +5,7 @@ I build production-grade AI systems, automation platforms, and data-driven softw
 ## 🧠⚡ Projects
 
 - 🎮💬 **[de-kawaii-isometric-dialogue-demo](https://github.com/WaromiV/de-kawaii-isometric-dialogue-demo)** - Isometric pygame dialogue demo with Disco-style checks, skill grid, pixel UI, and static ElevenLabs voice-over pipeline
+- 🐳🧠 **[whm-tui](https://github.com/WaromiV/whm_tui)** - TUI inspired by Wim Hof Method
 - 🔊🛠️ **[rmpc-ytm](https://github.com/WaromiV/rmpc-ytm)** - RMPC player fork for importing ytm playlists
 - 🔐🛠️ **[keepassxc](https://github.com/WaromiV/keepassxc)** - KeePassXC fork with custom attachment image clipboard behavior and copy-flow patches. 🍴 Fork
 - 🔥🖼️ **[flux-schnell-runpod-worker](https://github.com/WaromiV/flux-schnell-runpod-worker)** - Queue-based RunPod Serverless worker for FLUX.1-schnell image-to-image generation.
