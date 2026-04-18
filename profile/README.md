@@ -20,6 +20,7 @@ I build production-grade AI systems, automation platforms, and data-driven softw
 - 👀📶 **[telegram_online_monitor](https://github.com/WaromiV/telegram_online_monitor)** - Watches online/offline events and builds a dashboard for status patterns.
 - 🤖⌨️ **[codex-waromiv](https://github.com/WaromiV/codex-waromiv)** - Custom codex with extended functionality. 🍴 Fork
 - 🧮🏗️ **[vp-build-estimator-73667-91014](https://github.com/WaromiV/vp-build-estimator-73667-91014)** - No description yet.
+- 🎮🛠️ **[omori-mcp-toolkit](https://github.com/WaromiV/omori-mcp-toolkit)** - Lightweight MCP server for driving and testing OMORI through the in-game `omori_mcp` bridge. Allows any agent to play OMORI.
 - 🎙️🧠 **[voice_nvim_gpt_control](https://github.com/WaromiV/voice_nvim_gpt_control)** - Allow GPT to execute commands in nvim using microphone human input.
 - 🛡️📏 **[yas-bench](https://github.com/WaromiV/yas-bench)** - Yet Another Security benchmark.
 - 📣🛰️ **[telegram-signals-collector](https://github.com/WaromiV/telegram-signals-collector)** - No description yet. 🍴 Fork
