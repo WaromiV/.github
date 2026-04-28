@@ -4,6 +4,8 @@ I build production-grade AI systems, automation platforms, and data-driven softw
 
 ## 🧠⚡ Projects
 
+- 🎙️📓 **[faster-whisper-google-collab](https://github.com/WaromiV/faster-whisper-google-collab)** - Allows you to quickly transcribe large amounts of audio for free
+- 🖼️🐍 **[icat](https://github.com/WaromiV/icat)** - image cat - shows an image in your terminal
 - 🎮🛠️ **[omori-mcp-toolkit](https://github.com/WaromiV/omori-mcp-toolkit)** - Lightweight MCP server for driving and testing OMORI through the in-game `omori_mcp` bridge. Allows any agent to play OMORI.
 - 🎮💬 **[de-kawaii-isometric-dialogue-demo](https://github.com/WaromiV/de-kawaii-isometric-dialogue-demo)** - Isometric pygame dialogue demo with Disco-style checks, skill grid, pixel UI, and static ElevenLabs voice-over pipeline
 - 🐳🧠 **[whm-tui](https://github.com/WaromiV/whm_tui)** - TUI inspired by Wim Hof Method
