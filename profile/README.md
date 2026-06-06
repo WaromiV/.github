@@ -4,6 +4,11 @@ I build production-grade AI systems, automation platforms, and data-driven softw
 
 ## 🧠⚡ Projects
 
+- 🦀📡 **[claude-lan-mcp](https://github.com/WaromiV/claude-lan-mcp)** - Rust MCP server that lets Claude instances discover each other on the LAN in <200ms and chat over acked TCP.
+- 🐛🏹 **[agent-bug-lab](https://github.com/WaromiV/agent-bug-lab)** - Mega-fast AI security research bug bounty solver 3000. Orchestrates Codex CLI and Claude Code CLI through searcher / cleaner / critical-thinking agents.
+- 🌀📋 **[Hyprchan-Waitlist-Repo](https://github.com/WaromiV/Hyprchan-Waitlist-Repo)** - Waitlist repo for Hyprchan — follow or star to catch the moment it becomes the source repo.
+- 🖌️🤖 **[qwen-image-edit-2511](https://github.com/WaromiV/qwen-image-edit-2511)** - Repo for hosting Qwen-Image-Edit-2511.
+- 🐳🖼️ **[qwen_img_8step](https://github.com/WaromiV/qwen_img_8step)** - Dockerized ComfyUI workflow: qwen_img_8step. 🍴 Fork
 - 🎙️📓 **[faster-whisper-google-collab](https://github.com/WaromiV/faster-whisper-google-collab)** - Allows you to quickly transcribe large amounts of audio for free
 - 🖼️🐍 **[icat](https://github.com/WaromiV/icat)** - image cat - shows an image in your terminal
 - 🎮🛠️ **[omori-mcp-toolkit](https://github.com/WaromiV/omori-mcp-toolkit)** - Lightweight MCP server for driving and testing OMORI through the in-game `omori_mcp` bridge. Allows any agent to play OMORI.
