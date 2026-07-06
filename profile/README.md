@@ -4,6 +4,8 @@ I build production-grade AI systems, automation platforms, and data-driven softw
 
 ## 🧠⚡ Projects
 
+- 🔐🥔 **[login-page-final-FINAL-v2](https://github.com/WaromiV/login-page-final-FINAL-v2)** - 21 login methods, 0 of them work, also 7 of them work. [Try it live](https://waromiv.github.io/login-page-final-FINAL-v2/).
+- 🀄🎴 **[anki-streamliner](https://github.com/WaromiV/anki-streamliner)** - add_word MCP server: build Japanese Anki cards with LLM fields, ElevenLabs TTS & image gen, imported via AnkiConnect
 - 🧰🤖 **[sandbox](https://github.com/WaromiV/sandbox)** - Self-hosted AI-agent workspace: OpenClaw gateway, Paperclip orchestrator, and code-server behind Authentik SSO — brought up with a single command.
 - 🦀📡 **[claude-lan-mcp](https://github.com/WaromiV/claude-lan-mcp)** - Rust MCP server that lets Claude instances discover each other on the LAN in <200ms and chat over acked TCP.
 - 🐛🏹 **[agent-bug-lab](https://github.com/WaromiV/agent-bug-lab)** - Mega-fast AI security research bug bounty solver 3000. Orchestrates Codex CLI and Claude Code CLI through searcher / cleaner / critical-thinking agents.
