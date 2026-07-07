@@ -4,6 +4,8 @@ I build production-grade AI systems, automation platforms, and data-driven softw
 
 ## 🧠⚡ Projects
 
+- 🌀🧸 **[Hyprchan](https://github.com/AscenderTeam/Hyprchan)** - A homeostatic AI agent — the character and mascot of Hyprland that lives in your Hyprland.
+- 🛋️🤖 **[therapistMCP](https://github.com/WaromiV/therapistMCP)** - MCP server that lets one Claude refer itself to another Claude for counselling. 90% a joke, 10% unsettlingly not.
 - 🔐🥔 **[login-page-final-FINAL-v2](https://github.com/WaromiV/login-page-final-FINAL-v2)** - 21 login methods, 0 of them work, also 7 of them work. [Try it live](https://waromiv.github.io/login-page-final-FINAL-v2/).
 - 🀄🎴 **[anki-streamliner](https://github.com/WaromiV/anki-streamliner)** - add_word MCP server: build Japanese Anki cards with LLM fields, ElevenLabs TTS & image gen, imported via AnkiConnect
 - 🧰🤖 **[sandbox](https://github.com/WaromiV/sandbox)** - Self-hosted AI-agent workspace: OpenClaw gateway, Paperclip orchestrator, and code-server behind Authentik SSO — brought up with a single command.
