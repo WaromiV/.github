@@ -10,7 +10,7 @@ I'm interested in building and maintaining agents, LLM infrastructure, and appli
   &nbsp;
   <a href="https://www.linkedin.com/in/emil-nesteruk-018702374/"><img src="https://raw.githubusercontent.com/WaromiV/.github/development/profile/assets/badges/linkedin.svg?v=3" alt="LinkedIn — looking for long-term AI engineering work with an established team; let's talk" width="400" /></a>
 </p>
-
+<hr>
 <p align="center">
   <a href="https://benzinavstrane.net/"><img src="https://raw.githubusercontent.com/WaromiV/.github/development/profile/assets/badges/benzin-kaliningrad.svg" alt="Benzin v strane — a recorded Kaliningrad fuel map; orange marks a queue" width="400" /></a>
   &nbsp;
