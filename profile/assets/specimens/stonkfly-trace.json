@@ -1,0 +1,1070 @@
+{
+  "source": "http://109.123.255.162:8766/state.json",
+  "run": "mexc-fee-sol-paper-x86-20260917",
+  "capturedAt": "2026-09-17T13:11:10.618228+00:00",
+  "description": "Frozen observed ticks; equity is sampled before execution.",
+  "events": [
+    {
+      "tick": 1,
+      "time": 1789640164.6866372,
+      "product": "SOL-USDC",
+      "bid": "99.69",
+      "equity": 100.0,
+      "side": "BUY",
+      "execution": "FILLED"
+    },
+    {
+      "tick": 2,
+      "time": 1789640235.8742182,
+      "product": "SOL-USDC",
+      "bid": "99.65",
+      "equity": 99.98926011634336,
+      "side": "BUY",
+      "execution": "FILLED"
+    },
+    {
+      "tick": 3,
+      "time": 1789640291.6640837,
+      "product": "SOL-USDC",
+      "bid": "99.66",
+      "equity": 99.98341369090696,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 4,
+      "time": 1789640349.5377002,
+      "product": "SOL-USDC",
+      "bid": "99.53",
+      "equity": 99.95796548500697,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 5,
+      "time": 1789640411.1462185,
+      "product": "SOL-USDC",
+      "bid": "99.58",
+      "equity": 99.96775325650697,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 6,
+      "time": 1789640470.4117274,
+      "product": "SOL-USDC",
+      "bid": "99.6",
+      "equity": 99.97166836510696,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 7,
+      "time": 1789640529.5384235,
+      "product": "SOL-USDC",
+      "bid": "99.59",
+      "equity": 99.96971081080696,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 8,
+      "time": 1789640589.4094718,
+      "product": "SOL-USDC",
+      "bid": "99.59",
+      "equity": 99.96971081080696,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 9,
+      "time": 1789640650.096144,
+      "product": "SOL-USDC",
+      "bid": "99.69",
+      "equity": 99.98928635380696,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 10,
+      "time": 1789644033.2613273,
+      "product": "SOL-USDC",
+      "bid": "100.01",
+      "equity": 100.05192809140696,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 11,
+      "time": 1789644092.1699054,
+      "product": "SOL-USDC",
+      "bid": "100",
+      "equity": 100.04997053710696,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 12,
+      "time": 1789644152.454307,
+      "product": "SOL-USDC",
+      "bid": "99.96",
+      "equity": 100.04214031990696,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 13,
+      "time": 1789644212.505205,
+      "product": "SOL-USDC",
+      "bid": "99.97",
+      "equity": 100.04409787420695,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 14,
+      "time": 1789644272.3371744,
+      "product": "SOL-USDC",
+      "bid": "99.96",
+      "equity": 100.04214031990696,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 15,
+      "time": 1789644331.9491706,
+      "product": "SOL-USDC",
+      "bid": "99.9",
+      "equity": 100.03039499410696,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 16,
+      "time": 1789644392.1361957,
+      "product": "SOL-USDC",
+      "bid": "99.91",
+      "equity": 100.03235254840696,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 17,
+      "time": 1789644452.7390835,
+      "product": "SOL-USDC",
+      "bid": "99.98",
+      "equity": 100.04605542850696,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 18,
+      "time": 1789644512.973087,
+      "product": "SOL-USDC",
+      "bid": "99.97",
+      "equity": 100.04409787420695,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 19,
+      "time": 1789644572.5772057,
+      "product": "SOL-USDC",
+      "bid": "99.93",
+      "equity": 100.03626765700696,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 20,
+      "time": 1789644634.3802476,
+      "product": "SOL-USDC",
+      "bid": "99.88",
+      "equity": 100.02647988550696,
+      "side": "BUY",
+      "execution": "FILLED"
+    },
+    {
+      "tick": 21,
+      "time": 1789644695.178505,
+      "product": "SOL-USDC",
+      "bid": "99.79",
+      "equity": 99.99421970681144,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 22,
+      "time": 1789644753.5379531,
+      "product": "SOL-USDC",
+      "bid": "99.79",
+      "equity": 99.99421970681144,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 23,
+      "time": 1789644813.893031,
+      "product": "SOL-USDC",
+      "bid": "99.74",
+      "equity": 99.97954755831144,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 24,
+      "time": 1789644871.7788026,
+      "product": "SOL-USDC",
+      "bid": "99.73",
+      "equity": 99.97661312861143,
+      "side": "BUY",
+      "execution": "FILLED"
+    },
+    {
+      "tick": 25,
+      "time": 1789644932.747844,
+      "product": "SOL-USDC",
+      "bid": "99.71",
+      "equity": 99.96098397308728,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 26,
+      "time": 1789644995.1651719,
+      "product": "SOL-USDC",
+      "bid": "99.68",
+      "equity": 99.94924625678728,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 27,
+      "time": 1789645053.2274172,
+      "product": "SOL-USDC",
+      "bid": "99.67",
+      "equity": 99.94533368468728,
+      "side": "BUY",
+      "execution": "FILLED"
+    },
+    {
+      "tick": 28,
+      "time": 1789645112.6536689,
+      "product": "SOL-USDC",
+      "bid": "99.59",
+      "equity": 99.89742144063064,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 29,
+      "time": 1789645172.5396137,
+      "product": "SOL-USDC",
+      "bid": "99.56",
+      "equity": 99.88274783253064,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 30,
+      "time": 1789645232.9581294,
+      "product": "SOL-USDC",
+      "bid": "99.54",
+      "equity": 99.87296542713064,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 31,
+      "time": 1789645291.479902,
+      "product": "SOL-USDC",
+      "bid": "99.49",
+      "equity": 99.84850941363064,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 32,
+      "time": 1789645353.189086,
+      "product": "SOL-USDC",
+      "bid": "99.5",
+      "equity": 99.85340061633065,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 33,
+      "time": 1789645414.3567538,
+      "product": "SOL-USDC",
+      "bid": "99.53",
+      "equity": 99.86807422443064,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 34,
+      "time": 1789645473.7826142,
+      "product": "SOL-USDC",
+      "bid": "99.5",
+      "equity": 99.85340061633065,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 35,
+      "time": 1789645534.510015,
+      "product": "SOL-USDC",
+      "bid": "99.53",
+      "equity": 99.86807422443064,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 36,
+      "time": 1789645592.4619415,
+      "product": "SOL-USDC",
+      "bid": "99.51",
+      "equity": 99.85829181903064,
+      "side": "SELL",
+      "execution": "FILLED"
+    },
+    {
+      "tick": 37,
+      "time": 1789645654.129096,
+      "product": "SOL-USDC",
+      "bid": "99.54",
+      "equity": 99.86094653489464,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 38,
+      "time": 1789645713.9215057,
+      "product": "SOL-USDC",
+      "bid": "99.55",
+      "equity": 99.86483281349464,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 39,
+      "time": 1789645774.437918,
+      "product": "SOL-USDC",
+      "bid": "99.52",
+      "equity": 99.85317397769464,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 40,
+      "time": 1789645833.2643523,
+      "product": "SOL-USDC",
+      "bid": "99.47",
+      "equity": 99.83374258469463,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 41,
+      "time": 1789645893.175603,
+      "product": "SOL-USDC",
+      "bid": "99.58",
+      "equity": 99.87649164929464,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 42,
+      "time": 1789645952.9433787,
+      "product": "SOL-USDC",
+      "bid": "99.61",
+      "equity": 99.88815048509464,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 43,
+      "time": 1789646013.80216,
+      "product": "SOL-USDC",
+      "bid": "99.59",
+      "equity": 99.88037792789464,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 44,
+      "time": 1789646073.1574373,
+      "product": "SOL-USDC",
+      "bid": "99.63",
+      "equity": 99.89592304229464,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 45,
+      "time": 1789646133.29078,
+      "product": "SOL-USDC",
+      "bid": "99.69",
+      "equity": 99.91924071389464,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 46,
+      "time": 1789646193.4426534,
+      "product": "SOL-USDC",
+      "bid": "99.68",
+      "equity": 99.91535443529465,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 47,
+      "time": 1789646253.2493558,
+      "product": "SOL-USDC",
+      "bid": "99.76",
+      "equity": 99.94644466409464,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 48,
+      "time": 1789646312.5888827,
+      "product": "SOL-USDC",
+      "bid": "99.83",
+      "equity": 99.97364861429465,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 49,
+      "time": 1789646373.0201828,
+      "product": "SOL-USDC",
+      "bid": "99.93",
+      "equity": 100.01251140029464,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 50,
+      "time": 1789646439.8976204,
+      "product": "SOL-USDC",
+      "bid": "100.01",
+      "equity": 100.04360162909464,
+      "side": "BUY",
+      "execution": "FILLED"
+    },
+    {
+      "tick": 51,
+      "time": 1789646495.540771,
+      "product": "SOL-USDC",
+      "bid": "100.18",
+      "equity": 100.10966056971064,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 52,
+      "time": 1789646555.8232472,
+      "product": "SOL-USDC",
+      "bid": "100.28",
+      "equity": 100.15826783571065,
+      "side": "BUY",
+      "execution": "FILLED"
+    },
+    {
+      "tick": 53,
+      "time": 1789646614.567561,
+      "product": "SOL-USDC",
+      "bid": "100.17",
+      "equity": 100.09310288586448,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 54,
+      "time": 1789646674.9132104,
+      "product": "SOL-USDC",
+      "bid": "100.22",
+      "equity": 100.12227343736448,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 55,
+      "time": 1789646734.6709065,
+      "product": "SOL-USDC",
+      "bid": "100.17",
+      "equity": 100.09310288586448,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 56,
+      "time": 1789646793.7640126,
+      "product": "SOL-USDC",
+      "bid": "100.18",
+      "equity": 100.09893699616448,
+      "side": "SELL",
+      "execution": "FILLED"
+    },
+    {
+      "tick": 57,
+      "time": 1789646854.488294,
+      "product": "SOL-USDC",
+      "bid": "100.12",
+      "equity": 100.05793013793983,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 58,
+      "time": 1789646914.8898947,
+      "product": "SOL-USDC",
+      "bid": "100.31",
+      "equity": 100.14980669183984,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 59,
+      "time": 1789646973.7422764,
+      "product": "SOL-USDC",
+      "bid": "100.27",
+      "equity": 100.13046425943983,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 60,
+      "time": 1789647034.5490894,
+      "product": "SOL-USDC",
+      "bid": "100.46",
+      "equity": 100.22234081333984,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 61,
+      "time": 1789647094.0617414,
+      "product": "SOL-USDC",
+      "bid": "100.48",
+      "equity": 100.23201202953985,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 62,
+      "time": 1789647155.1543345,
+      "product": "SOL-USDC",
+      "bid": "100.53",
+      "equity": 100.25619007003984,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 63,
+      "time": 1789647272.8211625,
+      "product": "SOL-USDC",
+      "bid": "100.64",
+      "equity": 100.30938175913984,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 64,
+      "time": 1789647332.8128288,
+      "product": "SOL-USDC",
+      "bid": "100.75",
+      "equity": 100.36257344823984,
+      "side": "BUY",
+      "execution": "FILLED"
+    },
+    {
+      "tick": 65,
+      "time": 1789647393.6574168,
+      "product": "SOL-USDC",
+      "bid": "100.9",
+      "equity": 100.42923778735424,
+      "side": "BUY",
+      "execution": "FILLED"
+    },
+    {
+      "tick": 66,
+      "time": 1789647455.3611913,
+      "product": "SOL-USDC",
+      "bid": "100.71",
+      "equity": 100.28895871560832,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 67,
+      "time": 1789647514.7075195,
+      "product": "SOL-USDC",
+      "bid": "100.85",
+      "equity": 100.38372386440832,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 68,
+      "time": 1789647577.9089537,
+      "product": "SOL-USDC",
+      "bid": "100.85",
+      "equity": 100.38372386440832,
+      "side": "BUY",
+      "execution": "FILLED"
+    },
+    {
+      "tick": 69,
+      "time": 1789647636.947292,
+      "product": "SOL-USDC",
+      "bid": "100.91",
+      "equity": 100.423305161724,
+      "side": "SELL",
+      "execution": "VETO"
+    },
+    {
+      "tick": 70,
+      "time": 1789647695.9997594,
+      "product": "SOL-USDC",
+      "bid": "100.97",
+      "equity": 100.469722795524,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 71,
+      "time": 1789647757.2671359,
+      "product": "SOL-USDC",
+      "bid": "100.98",
+      "equity": 100.477459067824,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 72,
+      "time": 1789647814.8086262,
+      "product": "SOL-USDC",
+      "bid": "100.93",
+      "equity": 100.438777706324,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 73,
+      "time": 1789647877.4399607,
+      "product": "SOL-USDC",
+      "bid": "100.94",
+      "equity": 100.446513978624,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 74,
+      "time": 1789647938.1389053,
+      "product": "SOL-USDC",
+      "bid": "100.94",
+      "equity": 100.446513978624,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 75,
+      "time": 1789647995.5983832,
+      "product": "SOL-USDC",
+      "bid": "101.02",
+      "equity": 100.508404157024,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 76,
+      "time": 1789648054.8316782,
+      "product": "SOL-USDC",
+      "bid": "100.98",
+      "equity": 100.477459067824,
+      "side": "SELL",
+      "execution": "FILLED"
+    },
+    {
+      "tick": 77,
+      "time": 1789648116.0495596,
+      "product": "SOL-USDC",
+      "bid": "101.05",
+      "equity": 100.51172748607264,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 78,
+      "time": 1789648173.6884716,
+      "product": "SOL-USDC",
+      "bid": "100.99",
+      "equity": 100.47125338867264,
+      "side": "BUY",
+      "execution": "FILLED"
+    },
+    {
+      "tick": 79,
+      "time": 1789648234.4727662,
+      "product": "SOL-USDC",
+      "bid": "101.08",
+      "equity": 100.52802249916304,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 80,
+      "time": 1789648294.2368648,
+      "product": "SOL-USDC",
+      "bid": "101.3",
+      "equity": 100.69766693896304,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 81,
+      "time": 1789648409.4650178,
+      "product": "SOL-USDC",
+      "bid": "100.94",
+      "equity": 100.42006694656304,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 82,
+      "time": 1789648469.9049165,
+      "product": "SOL-USDC",
+      "bid": "101.03",
+      "equity": 100.48946694466304,
+      "side": "BUY",
+      "execution": "FILLED"
+    },
+    {
+      "tick": 83,
+      "time": 1789648529.4038386,
+      "product": "SOL-USDC",
+      "bid": "101.11",
+      "equity": 100.54431691906784,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 84,
+      "time": 1789648590.656972,
+      "product": "SOL-USDC",
+      "bid": "101.06",
+      "equity": 100.50093707506784,
+      "side": "BUY",
+      "execution": "FILLED"
+    },
+    {
+      "tick": 85,
+      "time": 1789648648.8128796,
+      "product": "SOL-USDC",
+      "bid": "101.06",
+      "equity": 100.48927387277264,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 86,
+      "time": 1789648708.4068239,
+      "product": "SOL-USDC",
+      "bid": "101.06",
+      "equity": 100.48927387277264,
+      "side": "BUY",
+      "execution": "FILLED"
+    },
+    {
+      "tick": 87,
+      "time": 1789648768.528175,
+      "product": "SOL-USDC",
+      "bid": "100.95",
+      "equity": 100.37729461011776,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 88,
+      "time": 1789648829.2966928,
+      "product": "SOL-USDC",
+      "bid": "100.95",
+      "equity": 100.37729461011776,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 89,
+      "time": 1789648888.0976202,
+      "product": "SOL-USDC",
+      "bid": "100.92",
+      "equity": 100.34748639561776,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 90,
+      "time": 1789648990.5205235,
+      "product": "SOL-USDC",
+      "bid": "100.8",
+      "equity": 100.22825353761776,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 91,
+      "time": 1789649050.4087296,
+      "product": "SOL-USDC",
+      "bid": "100.83",
+      "equity": 100.25806175211775,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 92,
+      "time": 1789649111.1202981,
+      "product": "SOL-USDC",
+      "bid": "100.77",
+      "equity": 100.19844532311777,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 93,
+      "time": 1789649169.3658476,
+      "product": "SOL-USDC",
+      "bid": "100.84",
+      "equity": 100.26799782361776,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 94,
+      "time": 1789649229.6761613,
+      "product": "SOL-USDC",
+      "bid": "100.86",
+      "equity": 100.28786996661776,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 95,
+      "time": 1789649290.5615785,
+      "product": "SOL-USDC",
+      "bid": "100.78",
+      "equity": 100.20838139461776,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 96,
+      "time": 1789649348.6935358,
+      "product": "SOL-USDC",
+      "bid": "100.65",
+      "equity": 100.07921246511776,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 97,
+      "time": 1789649410.9920213,
+      "product": "SOL-USDC",
+      "bid": "100.58",
+      "equity": 100.00965996461775,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 98,
+      "time": 1789649469.8127651,
+      "product": "SOL-USDC",
+      "bid": "100.68",
+      "equity": 100.10902067961776,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 99,
+      "time": 1789649530.6748347,
+      "product": "SOL-USDC",
+      "bid": "100.71",
+      "equity": 100.13882889411776,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 100,
+      "time": 1789649588.649408,
+      "product": "SOL-USDC",
+      "bid": "100.64",
+      "equity": 100.06927639361776,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 101,
+      "time": 1789649649.2210257,
+      "product": "SOL-USDC",
+      "bid": "100.6",
+      "equity": 100.02953210761775,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 102,
+      "time": 1789649709.3943462,
+      "product": "SOL-USDC",
+      "bid": "100.62",
+      "equity": 100.04940425061775,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 103,
+      "time": 1789649769.1680708,
+      "product": "SOL-USDC",
+      "bid": "100.66",
+      "equity": 100.08914853661776,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 104,
+      "time": 1789649830.2570653,
+      "product": "SOL-USDC",
+      "bid": "100.65",
+      "equity": 100.07921246511776,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 105,
+      "time": 1789649889.511834,
+      "product": "SOL-USDC",
+      "bid": "100.79",
+      "equity": 100.21831746611775,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 106,
+      "time": 1789649948.967493,
+      "product": "SOL-USDC",
+      "bid": "100.72",
+      "equity": 100.14876496561776,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 107,
+      "time": 1789650013.32188,
+      "product": "SOL-USDC",
+      "bid": "100.64",
+      "equity": 100.06927639361776,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 108,
+      "time": 1789650073.8046641,
+      "product": "SOL-USDC",
+      "bid": "100.78",
+      "equity": 100.20838139461776,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 109,
+      "time": 1789650128.6198602,
+      "product": "SOL-USDC",
+      "bid": "100.89",
+      "equity": 100.31767818111776,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 110,
+      "time": 1789650188.163642,
+      "product": "SOL-USDC",
+      "bid": "100.75",
+      "equity": 100.17857318011777,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 111,
+      "time": 1789650249.2793946,
+      "product": "SOL-USDC",
+      "bid": "100.77",
+      "equity": 100.19844532311777,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 112,
+      "time": 1789650309.8096855,
+      "product": "SOL-USDC",
+      "bid": "100.72",
+      "equity": 100.14876496561776,
+      "side": "HOLD",
+      "execution": "HOLD"
+    },
+    {
+      "tick": 113,
+      "time": 1789650368.476789,
+      "product": "SOL-USDC",
+      "bid": "100.68",
+      "equity": 100.10902067961776,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 114,
+      "time": 1789650430.205633,
+      "product": "SOL-USDC",
+      "bid": "100.62",
+      "equity": 100.04940425061775,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 115,
+      "time": 1789650489.7613165,
+      "product": "SOL-USDC",
+      "bid": "100.51",
+      "equity": 99.94010746411776,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 116,
+      "time": 1789650548.6098604,
+      "product": "SOL-USDC",
+      "bid": "100.44",
+      "equity": 99.87055496361776,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 117,
+      "time": 1789650608.609809,
+      "product": "SOL-USDC",
+      "bid": "100.4",
+      "equity": 99.83081067761776,
+      "side": "BUY",
+      "execution": "VETO"
+    },
+    {
+      "tick": 118,
+      "time": 1789650667.8269105,
+      "product": "SOL-USDC",
+      "bid": "100.33",
+      "equity": 99.76125817711775,
+      "side": "HOLD",
+      "execution": "HOLD"
+    }
+  ]
+}

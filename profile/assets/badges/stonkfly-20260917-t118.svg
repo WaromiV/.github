@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="400" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Stonkfly — paper-trading observation record</title>
+  <desc id="desc">Recorded SOL-USDC paper-account equity, 2026-09-17 10:16–2026-09-17 13:11 UTC, ticks 1–118. 75 of 118 neural decisions were HOLD. The line breaks across the missing observations. Snapshot of pre-execution account equity; not a live return or a profitability claim. Built on nftechie/stonkfly.</desc>
+  <style>
+    text{font-family:Georgia,"Times New Roman",serif}
+    .mono,.mono text{font-family:"DejaVu Sans Mono",Consolas,monospace}
+
+    @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <rect width="640" height="400" fill="#edf0e8"/>
+  <text x="28" y="62" font-size="45" letter-spacing="-1.5" fill="#283428">Stonkfly</text>
+  <text class="mono" x="612" y="34" font-size="16" text-anchor="end" fill="#45513f">17 SEP 2026</text>
+  <text class="mono" x="612" y="59" font-size="16" text-anchor="end" fill="#45513f">PAPER TRADING</text>
+  <text class="mono" x="28" y="101" font-size="16" fill="#53604e">SOL-USDC / OBSERVED EQUITY, USDC</text>
+  <path d="M76 276.0H606" stroke="#b7bfb4" stroke-width="1"/>
+<text class="mono" x="65" y="281.0" text-anchor="end" font-size="15" fill="#526051">99.75</text>
+<path d="M76 238.5H606" stroke="#b7bfb4" stroke-width="1"/>
+<text class="mono" x="65" y="243.5" text-anchor="end" font-size="15" fill="#526051">100.00</text>
+<path d="M76 201.0H606" stroke="#b7bfb4" stroke-width="1"/>
+<text class="mono" x="65" y="206.0" text-anchor="end" font-size="15" fill="#526051">100.25</text>
+<path d="M76 163.5H606" stroke="#b7bfb4" stroke-width="1"/>
+<text class="mono" x="65" y="168.5" text-anchor="end" font-size="15" fill="#526051">100.50</text>
+<path d="M76 126.0H606" stroke="#b7bfb4" stroke-width="1"/>
+<text class="mono" x="65" y="131.0" text-anchor="end" font-size="15" fill="#526051">100.75</text>
+<rect x="104.5" y="120" width="162.7" height="161" fill="#e6e9e0"/>
+<text class="mono" x="185.9" y="186" text-anchor="middle" fill="#747d70" font-size="17">56 min gap</text>
+<text class="mono" x="185.9" y="209" text-anchor="middle" fill="#747d70" font-size="14">no observations</text>
+
+  <path d="M76.00,238.50 L79.59,240.11 L82.41,240.99 L85.33,244.81 L88.44,243.34 L91.43,242.75 L94.41,243.04 L97.43,243.04 L100.49,240.11 M271.21,230.71 L274.19,231.00 L277.23,232.18 L280.26,231.89 L283.28,232.18 L286.28,233.94 L289.32,233.65 L292.38,231.59 L295.42,231.89 L298.43,233.06 L301.55,234.53 L304.61,239.37 L307.56,239.37 L310.60,241.57 L313.53,242.01 L316.60,244.35 L319.75,246.11 L322.68,246.70 L325.68,253.89 L328.70,256.09 L331.75,257.56 L334.70,261.22 L337.82,260.49 L340.90,258.29 L343.90,260.49 L346.97,258.29 L349.89,259.76 L353.00,259.36 L356.02,258.78 L359.07,260.52 L362.04,263.44 L365.07,257.03 L368.08,255.28 L371.15,256.44 L374.15,254.11 L377.18,250.61 L380.22,251.20 L383.24,246.53 L386.23,242.45 L389.28,236.62 L392.65,231.96 L395.46,222.05 L398.50,214.76 L401.47,224.53 L404.51,220.16 L407.53,224.53 L410.51,223.66 L413.57,229.81 L416.62,216.03 L419.59,218.93 L422.66,205.15 L425.66,203.70 L428.75,200.07 L434.68,192.09 L437.71,184.11 L440.78,174.11 L443.90,195.16 L446.89,180.94 L450.08,180.94 L453.06,175.00 L456.04,168.04 L459.13,166.88 L462.03,172.68 L465.19,171.52 L468.26,171.52 L471.16,162.24 L474.15,166.88 L477.23,161.74 L480.14,167.81 L483.21,159.30 L486.23,133.85 L492.04,175.49 L495.09,165.08 L498.09,156.85 L501.18,163.36 L504.12,165.11 L507.13,165.11 L510.16,181.91 L513.23,181.91 L516.19,186.38 L521.36,204.26 L524.38,199.79 L527.45,208.73 L530.39,198.30 L533.43,195.32 L536.50,207.24 L539.44,226.62 L542.58,237.05 L545.55,222.15 L548.62,217.68 L551.54,228.11 L554.60,234.07 L557.64,231.09 L560.65,225.13 L563.74,226.62 L566.73,205.75 L569.73,216.19 L572.97,228.11 L576.02,207.24 L578.79,190.85 L581.80,211.71 L584.88,208.73 L587.93,216.19 L590.89,222.15 L594.01,231.09 L597.01,247.48 L599.98,257.92 L603.01,263.88 L606.00,274.31" fill="none" stroke="#943f33" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <g class="mono" font-size="15" fill="#526051">
+    <text x="76" y="303">10:16</text><text x="606" y="303" text-anchor="end">13:11 UTC</text>
+  </g>
+  <text x="28" y="344" font-size="25" fill="#283428">75 of 118 decisions: HOLD.</text>
+  <text class="mono" x="28" y="378" font-size="16" fill="#53604e">ticks 1–118 · built on nftechie/stonkfly</text>
+  <g transform="translate(571 335) rotate(-20)" stroke="#45513f" stroke-width="1.5" fill="none">
+    <ellipse cx="0" cy="0" rx="5" ry="11" fill="#45513f"/><circle cy="-15" r="4" fill="#45513f"/>
+    <ellipse cx="-10" cy="-6" rx="7" ry="13" transform="rotate(-30 -10 -6)"/><ellipse cx="10" cy="-6" rx="7" ry="13" transform="rotate(30 10 -6)"/>
+    <path d="M-4-5l-13-9M4-5l13-9M-4 1l-15 3M4 1l15 3M-4 6l-9 13M4 6l9 13"/>
+  </g>
+
+</svg>

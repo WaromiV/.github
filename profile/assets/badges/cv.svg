@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="400" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Emil Nesteruk — CV</title>
+  <desc id="desc">Emil Nesteruk. AI and backend engineering. Open the CV for experience, selected work and contact details.</desc>
+  <style>
+    text{font-family:Georgia,"Times New Roman",serif}
+    .mono,.mono text{font-family:"DejaVu Sans Mono",Consolas,monospace}
+
+    @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <rect width="640" height="400" fill="#f2eee4"/>
+  <text class="mono" x="28" y="36" font-size="17" letter-spacing="1.5" fill="#55584f">EMIL NESTERUK</text>
+  <text x="23" y="193" font-size="168" letter-spacing="-10" fill="#24241f">CV.</text>
+  <text x="30" y="254" font-size="32" fill="#24241f">AI &amp; backend engineering</text>
+  <text class="mono" x="31" y="294" font-size="18" fill="#55584f">Experience / selected work / contact</text>
+  <text class="mono" x="31" y="373" font-size="19" fill="#24241f">nesterukemil.cv</text>
+  <path d="M564 369l40-40m-30 0h30v30" stroke="#a63b31" stroke-width="3" fill="none"/>
+
+</svg>
