@@ -30,7 +30,7 @@ I'm interested in building and maintaining agents, LLM infrastructure, and appli
   <a href="http://109.123.255.162:8766/"><img src="https://raw.githubusercontent.com/WaromiV/.github/development/profile/assets/badges/stonkfly-20260917-t118.svg" alt="Stonkfly — recorded paper-trading equity through 13:11 UTC, 17 September 2026; 75 of 118 decisions were HOLD; built on nftechie/stonkfly" width="400" /></a>
 </p>
 
-<sub><a href="https://github.com/WaromiV/.github/blob/development/profile/assets/specimens/README.md">Artifact sources &amp; field notes</a> · Stonkfly is a paper-trading experiment built on <a href="https://github.com/nftechie/stonkfly">nftechie/stonkfly</a>.</sub>
+<sub>Stonkfly is a paper-trading experiment built on <a href="https://github.com/nftechie/stonkfly">nftechie/stonkfly</a>.</sub>
 
 ## Projects
 
