@@ -11,14 +11,6 @@ I'm interested in building and maintaining agents, LLM infrastructure, and appli
   <a href="https://www.linkedin.com/in/emil-nesteruk-018702374/"><img src="https://raw.githubusercontent.com/WaromiV/.github/development/profile/assets/badges/linkedin.svg?v=3" alt="LinkedIn — looking for long-term AI engineering work with an established team; let's talk" width="400" /></a>
 </p>
 
-### The work I do
-
-- **AI agents and interaction** — [Hyprchan](https://github.com/AscenderTeam/Hyprchan), a desktop agent with perception, state and behaviour.
-- **LLM tools and infrastructure** — [claude-lan-mcp](https://github.com/WaromiV/claude-lan-mcp), [agent-bug-lab](https://github.com/WaromiV/agent-bug-lab), and [sandbox](https://github.com/WaromiV/sandbox): communication, orchestration, and self-hosted environments for agents.
-- **Applied AI products** — turning models into useful software, with backend engineering and ongoing ownership.
-
-### Selected projects &amp; experiments
-
 <p align="center">
   <a href="https://benzinavstrane.net/"><img src="https://raw.githubusercontent.com/WaromiV/.github/development/profile/assets/badges/benzin-kaliningrad.svg" alt="Benzin v strane — a recorded Kaliningrad fuel map; orange marks a queue" width="400" /></a>
   &nbsp;
@@ -31,6 +23,12 @@ I'm interested in building and maintaining agents, LLM infrastructure, and appli
 </p>
 
 <sub>Stonkfly is a paper-trading experiment built on <a href="https://github.com/nftechie/stonkfly">nftechie/stonkfly</a>.</sub>
+
+### The work I do
+
+- **AI agents and interaction** — [Hyprchan](https://github.com/AscenderTeam/Hyprchan), a desktop agent with perception, state and behaviour.
+- **LLM tools and infrastructure** — [claude-lan-mcp](https://github.com/WaromiV/claude-lan-mcp), [agent-bug-lab](https://github.com/WaromiV/agent-bug-lab), and [sandbox](https://github.com/WaromiV/sandbox): communication, orchestration, and self-hosted environments for agents.
+- **Applied AI products** — turning models into useful software, with backend engineering and ongoing ownership.
 
 ## Projects
 
